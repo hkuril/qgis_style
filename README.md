@@ -44,7 +44,7 @@ outline_contrast 0.15
 outline_style solid
 outline_width 2.0
 outline_width_unit Pixel 
-dir_out test/output/
+dir_out output/
 qgis_version 3.22.9-Białowieża
 style_file_name filled_contours
 ```
